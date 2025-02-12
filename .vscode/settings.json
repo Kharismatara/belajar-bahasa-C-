@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.jsx": "bat",
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
+}
