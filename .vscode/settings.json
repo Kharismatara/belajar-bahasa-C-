@@ -2,6 +2,7 @@
   "files.associations": {
     "*.jsx": "bat",
     "iostream": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "istream": "cpp"
   }
 }
