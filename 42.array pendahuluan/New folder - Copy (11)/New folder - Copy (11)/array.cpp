@@ -42,7 +42,7 @@ int main(){
 
     cout << "mengetahui panjang array  " << endl;
     cout << "ukuran array " << sizeof(nilai) << " byte " << endl;
-    cout << "jumlah array " << sizeof(nilai)/ sizeof(int ) << endl;
+    cout << "jumlah array " << sizeof(nilai)/ sizeof(int) << endl;
 
     return 0;
 
