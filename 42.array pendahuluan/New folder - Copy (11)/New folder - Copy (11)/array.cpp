@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
     //menulisakan array 
-    int nilai[5];
+    int nilai[6];
     nilai[0] = 0;
     nilai[1] = 1;
     nilai[2] = 2;
